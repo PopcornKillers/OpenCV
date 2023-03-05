@@ -1,4 +1,4 @@
-#Garbage sorting system！
+Garbage sorting system！
 
 
 
